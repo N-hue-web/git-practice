@@ -27,3 +27,7 @@ The last command will ask for password which is ‘pass@word1’
 * To build your project use command:
         mvn clean 
 
+* Not so mandatory: After final submission run the following command:
+        mvn test 1
+
+
